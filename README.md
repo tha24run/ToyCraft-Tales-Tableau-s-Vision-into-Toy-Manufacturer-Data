@@ -1,10 +1,11 @@
 🧩 ToyCraft Tales: Tableau’s Vision into Toy Manufacturer Data
+
 Team ID: LTVIP2026TMIDS62105
 
-Team member : Rajiv Kumar
-Team member : Pradeep Amileneni
-Team member : R E Durai
 Team member : Putthur Tharun Achari
+
+
+
 
 📌 Project Overview
 ToyCraft Tales is a Tableau-driven data analytics project focused on visualizing trends in the U.S. toy manufacturing industry. Our goal was to uncover patterns in manufacturer participation over time and identify regional hotspots using rich data visualizations.
