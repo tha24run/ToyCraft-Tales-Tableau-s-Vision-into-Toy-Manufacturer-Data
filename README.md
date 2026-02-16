@@ -39,5 +39,6 @@ Yearly Manufacturer Trends (2005–2016): A clear decline from ~1,600 to ~1,100 
 Index Distribution: Binning by index value highlights shifts in concentration — especially in years like 2014–2015.
 State-level Activity: Visualizations (bubble and bar charts) show California, Texas, Florida, and Washington as leading states in toy manufacturing.
 State Ranking Funnel: Reveals top states with steep drop-offs, emphasizing major vs. minor industry contributors.
+
 🎥 Demo
 https://drive.google.com/file/d/15ZwnyzwAGBU7gDdCYs6UM7IcCi-EB8oz/view?usp=drive_link
